@@ -1,0 +1,11 @@
+{
+  "name": "algorithms_and_data_structures",
+  "version": "1.0.0",
+  "description": "Algorithms and Data Structures tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "klop@neyho.com",
+  "license": "MIT"
+}
